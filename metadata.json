@@ -1,0 +1,6 @@
+{
+  "name": "Blaulicht Nostalgie - Oldtimer Feuerwehr Portal",
+  "description": "Europaweite Plattform für historische Feuerwehrfahrzeuge, interaktive Treffen-Karte mit Detailsuche, Restaurationschronik, Modell-Datenbank und moderiertes Forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
